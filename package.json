@@ -1,0 +1,24 @@
+{
+  "name": "magicrepl",
+  "version": "0.1.0",
+  "description": "code-assistant",
+  "main": "index.js",
+  "dependencies": {
+    "livingjson": "^0.1.1",
+    "datalive": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fingerskier/magicREPL.git"
+  },
+  "author": "fingerskier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fingerskier/magicREPL/issues"
+  },
+  "homepage": "https://github.com/fingerskier/magicREPL#readme"
+}
